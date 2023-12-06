@@ -14,23 +14,11 @@ export default function About() {
     <>
       <HeaderHome />
       <div className="w-full h-full flex flex-col items-center ">
-        {/*componente hero-about*/}
-
         <HeroAbout />
-
-        {/*componente baner-about*/}
         <BannerAbout />
-
-        {/*componente about-us*/}
         <AboutUs />
-
-        {/*componente nossa missao*/}
         <OurMission />
-
-        {/*componente orçamento*/}
         <Budget />
-
-        {/*componente mentes criativas*/}
         <CreativeMinds />
       </div>
       <AccordionHome />

@@ -1,6 +1,6 @@
 export function HeroAbout() {
   return (
-    <div className="flex m-40 w-11/12 justify-between ">
+    <div className="flex m-40 w-11/12 justify-between">
       <h1 className="text-5xl font-semibold">
         Uma Equipe Visionária, Onde a Inquietação Criativa Ganha Vida
       </h1>

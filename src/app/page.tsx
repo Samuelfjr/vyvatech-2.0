@@ -21,14 +21,14 @@ export default function Home() {
       <BannerHome />
 
       <div className="flex bg-[url(/assets/CHVTt0aGbx0.jpg)] bg-center bg-no-repeat bg-cover text-white space-y-12 h-[350px] my-24 items-center justify-center">
-        <div className="flex h-full w-full bg-black opacity-80">
+        <div className="flex w-full h-full bg-black opacity-80">
           <div className="flex flex-col items-center justify-center p-16">
             <h1 className="text-6xl">
               Vamos impulsionar o sucesso da sua empresa no mundo digital juntos
             </h1>
             <Button className="p-6" variant={"secondary"}>
               Iniciar Projeto <ArrowRight size={15} />
-            </Button>{" "}
+            </Button>
           </div>
         </div>
       </div>

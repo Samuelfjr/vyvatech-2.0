@@ -13,7 +13,7 @@ export default function About() {
   return (
     <>
       <HeaderHome />
-      <div className="w-full h-full flex flex-col items-center ">
+      <div className="w-full h-full flex flex-col items-center">
         <HeroAbout />
         <BannerAbout />
         <AboutUs />
